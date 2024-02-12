@@ -18,9 +18,14 @@ The application has the following features:
 * The student can apply to the university.
 * University admin either admits or rejects the student.
 * Once the student is enrolled, the student can access the student dashboard.
-* 
+* The student can register for courses, request a transport or library facility.
+* The student can book appointment in the hospital and view encounters.
 
 ## Screenshots
 
 Take a look at our application with a few screenshots:
 
+![Home Page](https://github.com/KareddyPavithra/State_Student_Management/blob/main/State_Student_Management/ssm%20images/Home%20page.png)
+![University Admin Dashboard](https://github.com/KareddyPavithra/State_Student_Management/blob/main/State_Student_Management/ssm%20images/University%20Admin%20Dashboard.png)
+![Student Dashboard](https://github.com/KareddyPavithra/State_Student_Management/blob/main/State_Student_Management/ssm%20images/Student%20Dashboard.png)
+![Hospital Dashboard](https://github.com/KareddyPavithra/State_Student_Management/blob/main/State_Student_Management/ssm%20images/Hospital%20Dashboard.png)
