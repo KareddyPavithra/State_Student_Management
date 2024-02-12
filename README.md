@@ -19,3 +19,8 @@ The application has the following features:
 * University admin either admits or rejects the student.
 * Once the student is enrolled, the student can access the student dashboard.
 * 
+
+## Screenshots
+
+Take a look at our application with a few screenshots:
+
