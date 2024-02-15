@@ -1,7 +1,8 @@
 # Student Management System
 
 ## Description:
-Student Management System is a one-stop application to streamline university processes such as student enrollment, course registration, hospital visits, library and transport management. This application is built using Java for the backend and Java Swing for the UI.
+
+<b>Student Management System</b> is a one-stop application to streamline university processes such as student enrollment, course registration, hospital visits, library and transport management. This application is built using Java for the backend and Java Swing for the UI.
 
 ## Tech Stack:
 <div align="left">
