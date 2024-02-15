@@ -25,7 +25,22 @@ The application has the following features:
 
 Take a look at our application with a few screenshots:
 
+
+This is the Home page of our application:
+
 ![Home Page](https://github.com/KareddyPavithra/State_Student_Management/blob/main/State_Student_Management/ssm%20images/Home%20page.png)
+
+
+This is the University Admin Dashboard where they can manage admissions, university, students and professors:
+
 ![University Admin Dashboard](https://github.com/KareddyPavithra/State_Student_Management/blob/main/State_Student_Management/ssm%20images/University%20Admin%20Dashboard.png)
+
+
+This is the Student Dashboard where student can check courses, request transport or library service:
+
 ![Student Dashboard](https://github.com/KareddyPavithra/State_Student_Management/blob/main/State_Student_Management/ssm%20images/Student%20Dashboard.png)
+
+
+This is the Hospital Dashboard of the student where they can browse the hospitals, manage their appointments and view encounters:
+
 ![Hospital Dashboard](https://github.com/KareddyPavithra/State_Student_Management/blob/main/State_Student_Management/ssm%20images/Hospital%20Dashboard.png)
